@@ -1,0 +1,12 @@
+.me-auto > a:hover {
+  background: #414549;
+  border-radius: 10px;
+}
+.me-auto {
+  display: flex;
+  align-items: center;
+}
+.me-auto > p {
+  margin-bottom: 0 !important;
+  margin-left: 3px;
+}
